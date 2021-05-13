@@ -1,5 +1,5 @@
 import os
-print("WELCOME TO T'S ENCRYPTION\DECRYPTION APP!")
+print("WELCOME TO T'S ASYMMETRIC KEY ENCRYPTION\DECRYPTION APP!")
 #installing the required packages...
 print("\nInstalling the required packages...","\n")
 os.system('pip install pycryptodome')
